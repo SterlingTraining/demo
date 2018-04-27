@@ -1,0 +1,14 @@
+<dept>
+	<info>
+			<name>Accounts</name>
+			<deptid>10</deptid>
+	</info>
+	<info>
+			<name>Sales</name>
+			<deptid>20</deptid>
+	</info>
+	<info>
+			<name>IT</name>
+			<deptid>30</deptid>
+	</info>
+</dept>
