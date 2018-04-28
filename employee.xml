@@ -2,5 +2,9 @@
 	<employee>
 			<name>sam</name>
 			<dept>Accounts</dept>
-	</employee
+	</employee>
+	<employee>
+			<name>tom</name>
+			<dept>Sales</dept>
+	</employee>
 </employees>
